@@ -3,6 +3,10 @@
 # This script will backup your web data for several sites
 # into a 14 different folders based on the day and week.
 #
+# Tested on Ubuntu 8, 10 & 12.  Should work on any Linux with bash.
+#
+#
+#
 # This is based on a backup script for a mail server, adapted to a web server.
 #
 # If run daily, this backup will eventually create two weeks of backups
