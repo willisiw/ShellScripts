@@ -1,3 +1,4 @@
+# PowerShell script
 #
 # Clone multiple virtual machines to a different datastore as a backup.  
 #
